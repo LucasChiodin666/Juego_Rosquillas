@@ -1,0 +1,6 @@
+Hamburguesa: Suma puntos adicionales
+Dona: Suma puntos normales
+Mano de Mono: Te aumenta el radio para agarrar objetos.
+Cerveza:Te da una vida
+Barra de Plutonio:Te saca una vida
+Oveja: Instakill
